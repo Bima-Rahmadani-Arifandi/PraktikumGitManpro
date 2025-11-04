@@ -1,2 +1,2 @@
 ini File Pertama
-diEdit di Remote (step7)
+diEdit di Local sekarang (step9)
