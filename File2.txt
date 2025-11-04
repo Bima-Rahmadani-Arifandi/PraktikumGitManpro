@@ -1,1 +1,2 @@
-ini Filekedua
+ini File Kedua
+diedit di Remote (step 7)
